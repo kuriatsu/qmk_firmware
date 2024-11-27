@@ -19,4 +19,8 @@
 //#define NO_ACTION_TAPPING
 //#define NO_ACTION_ONESHOT
 
-#define MASTER_RIGHT
+// #define MASTER_RIGHT
+
+#define OLED_DC_PIN GP18
+#define OLED_CS_PIN GP19
+#define OLED_DISPLAY_64X32
